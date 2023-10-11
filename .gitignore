@@ -152,7 +152,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-*api_keys.py
+Starter_Code_9/starter_code/api_keys.py
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
